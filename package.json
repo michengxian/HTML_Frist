@@ -1,0 +1,35 @@
+{
+  "name": "html_frist",
+  "version": "0.0.1",
+  "description": "第一个html项目",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michengxian/HTML_Frist.git"
+  },
+  "keywords": [
+    "frist"
+  ],
+  "author": "https://github.com/michengxian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michengxian/HTML_Frist/issues"
+  },
+  "homepage": "https://github.com/michengxian/HTML_Frist#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.5"
+  }
+}
