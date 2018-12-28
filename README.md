@@ -24,4 +24,6 @@ npm run example
 资料：
 [从零做一个前端开源项目](http://www.imooc.com/article/28240)
 
+[Node.js 中文网](http://nodejs.cn/api/querystring.html)
+
 
